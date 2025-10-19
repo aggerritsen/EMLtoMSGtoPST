@@ -128,5 +128,3 @@ This utility is open for internal or research use.
 Commercial redistribution requires an Aspose.Email license.
 
 ---
-
-© 2025 — EMLtoMSG/PST Utility maintained by AI Development Tools.
